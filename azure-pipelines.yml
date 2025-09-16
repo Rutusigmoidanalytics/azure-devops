@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name:Rutu
+  name: Rutu
 
 steps:
 - task: Maven@3
